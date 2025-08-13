@@ -3,8 +3,6 @@
 Fleet Desk is a desktop app that lets you create **real, valid ETS2 jobs** straight from your own save files.  
 It reads your profile, checks what DLCs you own, and only suggests jobs you can actually take in-game.
 
-No hacks, no fake offers — just jobs that follow the same rules as ETS2.
-
 ---
 
 ## What it does (MVP)
